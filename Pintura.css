@@ -1,0 +1,30 @@
+/*Centralizar o texto principal*/
+h1{
+    text-align: center;
+}
+
+h6{
+    text-align: center;
+}
+
+/*Manipular as imagens*/
+img{
+    width: 50%;
+    height: 50%;
+    margin-left: 25%;
+}
+
+/*Cor do Link*/
+a{
+    color: blue;
+}
+
+/*Mouse passando por cima*/
+a:hover{
+    color: red;
+}
+
+/*Link ativo*/
+a:active{
+    color: yellow;
+}
